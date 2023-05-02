@@ -1,0 +1,25 @@
+.barra{
+    z-index: 1;
+    top: 0%;
+    position: relative;
+}
+.presentacion{
+    color: white;
+    z-index: 2;
+    right: 50%;
+    bottom: 50%;
+    position: absolute;
+}
+.fondo{
+    background-blend-mode: darken;
+    background-color: black;
+    top: 0%;
+    z-index: 0;
+    position: absolute;
+}
+.carta{
+    z-index: 0;
+    bottom: -120%;
+    left: 180px;
+    position: absolute;
+}
