@@ -4,10 +4,11 @@
     position: relative;
 }
 .presentacion{
+    text-align: right;
     color: white;
     z-index: 2;
-    right: 50%;
-    bottom: 50%;
+    right: 10%;
+    bottom: 20%;
     position: absolute;
 }
 .fondo{
