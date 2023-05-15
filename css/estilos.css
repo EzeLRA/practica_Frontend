@@ -22,7 +22,10 @@
 }
 .carta{
     z-index: 0;
-    bottom: -140%;
-    left: 250px;
+    bottom: -30%;
+    border-left: 20%;
     position: absolute;
+}
+.tituloCarta{
+    position: relative;
 }
